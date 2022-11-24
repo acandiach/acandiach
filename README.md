@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'am Abel <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+
 
 <!--
 **acandiach/acandiach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,63 +17,35 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **abelcandiach@gmail.com**
 
-### 🧑‍💻 Programming Languages
 
-Ruby, Python
-<!-- 
-### 🎨 Frontend Development
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-Html, CSS, Sass, Bootstrap, Bulma, Materialize, React JS
-<!-- Tailwind, React, Svelte, Redux, Webpack, Babel -->
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=DE0717)
 
-<!--### 🔨 Backend Development
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Rails](https://img.shields.io/badge/-RubyOnRails-333333?style=flat&logo=ruby-on-rails&logoColor=DE0717)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
 
-Ruby on Rails, NodeJs, Express
-<!-- Nginex, Nestjs -->
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Postgresql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
+  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim&logoColor=)
+- 🖥 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)
 
-### 🔧 Databse
-
-Sql, Postgres, MySQL
-<!-- NoSql, MongoDB, Firebase, Firestore, MariaDB, ElasticSearch -->
-
-### 📚 Frameworks
-
-Ruby on Rails
-<!-- Spring -->
-
-### 🔒️ DevOps
-
-Bash, Linux
-<!-- Docker, Azure, Amazon web services, jenkins, Google cloud -->
-
-### 📎 Backend as a Service(BaaS)
-
-Heroku
-<!-- Firebase, Amplify, Netlify -->
-
-<!-- ### 🗃️ Software
-
-Postman, Illustraitor, Photoshop, Inkscape, Gimp, Autocad, Sketchup, Unity 3d
--->
-### 📝 Others
-
-Git, Github
-
-<!-- ### 📱 Mobile
-
-Android, Kotlin, Flutter, Dart, Ionic, React Native, NativeScript -->
-
-<!-- ### 📦 AI/ML
-
-tensorflow -->
-
-<!-- ### 📁 Data Visualization
-
-D3js, Chartjs, Canvasjs -->
-
-<!-- ### 📚 Testing
-
-jest -->
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
